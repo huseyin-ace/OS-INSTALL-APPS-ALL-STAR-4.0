@@ -1,2 +1,2 @@
-# OS-INSTALL-APPS-ALL-STAR-2.0
+# OS-INSTALL-APPS-ALL-STAR-3.0
 os yükleme uygulamaları buradaaa
